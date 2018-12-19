@@ -1,3 +1,5 @@
+//If you have any suggestions or improvements please feel free to comment or send in pull requests
+
 #include <sys/types.h>
 #include <sys/socket.h>
 #include <iostream>
